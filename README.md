@@ -6,6 +6,8 @@ Reproduction of [GestFormer (CVPR 2024)](https://arxiv.org/abs/2312.12083) — a
 
 ## Training Environment
 
+This project was conducted on a DGX STATION SSH server. The following are the specifications for the server environment.
+
 | Item | Spec |
 |---|---|
 | **OS** | Ubuntu 20.04.3 LTS (Focal Fossa) |
